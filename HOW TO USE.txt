@@ -1,0 +1,20 @@
+1. download python 
+2. install python and check add to path
+3. open terminal and path of the folder
+4. write "python -m venv venv"
+5. write ".\venv\Script\Activate"
+6. write pip install flask PyJWT==1.7.1 pymongo dnspython requests
+7. Click F1 and select "Preference: Open User Settings (JSON)"
+8. paste this code
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass"
+            ]
+        }
+    },
+9. Open app.py
+10. And run the code

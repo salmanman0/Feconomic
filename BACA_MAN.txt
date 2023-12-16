@@ -1,0 +1,33 @@
+Nanti kalau user liat product, terus mau beli tapi belum login. Pakai cara sign in yang if result payload nya
+
+sign_in, result, itu mendapatkan seluruh data di database account
+
+buat halaman yang berbeda untuk login 
+
+
+
+Yang belum masuk digunakan
+feature         ==>  Akan dijadikan Halaman Toko
+price
+service
+team
+testimoni       ==>  Cocok digabungkan dengan Halaman Toko
+
+PROFIL TOKO BELUM SIAP KARENA GA BISA MOUNT
+
+Hilangin jumbotron di list barang
+
+Sudah membuat short pada listProduk (utama) dan product
+sudah membuat tambah barang
+
+buat edit produk di list produk. JQUERY nya lagi sama bagian server dan cari cara untuk gambar
+
+deleteItem belum berfungsi
+
+listProduk siap
+
+profilToko belum bisa update, pesan belum bisa menerima balasan
+
+INFO CHAT MASUK
+
+recent masih info, LOGIKA CHAT : pesan akan dibuat jd perulangan, lalu untuk menampilkan gambar pakai perbandingan id dengan produk dan pesan
